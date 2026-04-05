@@ -1,3 +1,6 @@
+# NOTE: MADE 100% WITH CLAUDE OPUS. IF YOU DISLIKE THIS THAT'S FINE YOU PROBABLY DON'T NEED IT (and maybe you are
+smort enough to do MIDI transcription without robots. I'm not!)
+
 # Chord Tool
 
 Generate MIDI files from a simple text-based chord progression format.
