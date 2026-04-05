@@ -1,0 +1,54 @@
+c6:2
+a minor 7:2
+d minor 7:2
+d flat 7 sharp 9:2
+c6: 2
+a minor 7:2
+b flat 9:4
+d minor 7:2
+g 7 sus:2
+c:2
+d minor 7:1
+g7:1
+c6:2
+a minor 7:2
+d minor 7:2
+d flat 7 sharp 9:2
+c6:2
+a minor 7:2
+b flat 9:4
+d minor 7: 2
+g7sus:2
+c:4
+f sharp minor 11:2
+b7:2
+e major7:2
+e sharp dim7:2
+f sharp minor 11:2
+f9 sharp 11:2
+e major 7:2
+e6:2
+g minor 11: 2
+c7:2
+f major 7:2
+f sharp dim7:2
+g minor 11:2
+c9:2
+f:2
+g 7 sharp 5:2
+c6:2
+a minor 7:2
+d minor 7:2
+d flat 7 sharp 9:2
+c6:2
+a minor 7:2
+b flat 9:4
+d minor 7:2
+g7sus:2
+c:4
+a minor 7:2
+d9:2
+d flat 9:2
+c major 9:2
+d minor 7:1
+g7:1
