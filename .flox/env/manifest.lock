@@ -1,0 +1,270 @@
+{
+  "lockfile-version": 1,
+  "manifest": {
+    "version": 1,
+    "install": {
+      "midiutil": {
+        "pkg-path": "python313Packages.midiutil"
+      },
+      "python313": {
+        "pkg-path": "python313"
+      }
+    },
+    "hook": {},
+    "profile": {},
+    "options": {}
+  },
+  "packages": [
+    {
+      "attr_path": "python313Packages.midiutil",
+      "broken": false,
+      "derivation": "/nix/store/1hjywkcx3h75570qbjppvi5xa5xx1ryl-python3.13-midiutil-1.2.1.drv",
+      "description": "Pure python library for creating multi-track MIDI files",
+      "install_id": "midiutil",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "name": "python3.13-midiutil-1.2.1",
+      "pname": "midiutil",
+      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "rev_count": 972949,
+      "rev_date": "2026-04-01T09:47:46Z",
+      "scrape_date": "2026-04-02T18:01:50.785643Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.2.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/x410dcgzxm6w58mw95s62si0nl8ip086-python3.13-midiutil-1.2.1-dist",
+        "out": "/nix/store/0mwia0a60i0wi7bw0qa0xcdvinkxg3f5-python3.13-midiutil-1.2.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313Packages.midiutil",
+      "broken": false,
+      "derivation": "/nix/store/3zrrydh3vn3x30zwp7c65j8n7sq3080c-python3.13-midiutil-1.2.1.drv",
+      "description": "Pure python library for creating multi-track MIDI files",
+      "install_id": "midiutil",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "name": "python3.13-midiutil-1.2.1",
+      "pname": "midiutil",
+      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "rev_count": 972949,
+      "rev_date": "2026-04-01T09:47:46Z",
+      "scrape_date": "2026-04-02T18:33:42.927822Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.2.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/xy55zz8582wqr71zvzfm0mckf56rw747-python3.13-midiutil-1.2.1-dist",
+        "out": "/nix/store/773ai8ly2cz135ccmxki4qam9sigs0k1-python3.13-midiutil-1.2.1"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313Packages.midiutil",
+      "broken": false,
+      "derivation": "/nix/store/6gqvd5hph4rk56q8dv5y1xyzq76dm703-python3.13-midiutil-1.2.1.drv",
+      "description": "Pure python library for creating multi-track MIDI files",
+      "install_id": "midiutil",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "name": "python3.13-midiutil-1.2.1",
+      "pname": "midiutil",
+      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "rev_count": 972949,
+      "rev_date": "2026-04-01T09:47:46Z",
+      "scrape_date": "2026-04-02T19:03:05.264915Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.2.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/49bgzc1pr03pj7lbsd84v2n7n13v74gq-python3.13-midiutil-1.2.1-dist",
+        "out": "/nix/store/s7jxsg9aqh4brlz78n7da0kwjn0qvb1l-python3.13-midiutil-1.2.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313Packages.midiutil",
+      "broken": false,
+      "derivation": "/nix/store/h1ljm64qamxsvklqnc815iyys1bpyniq-python3.13-midiutil-1.2.1.drv",
+      "description": "Pure python library for creating multi-track MIDI files",
+      "install_id": "midiutil",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "name": "python3.13-midiutil-1.2.1",
+      "pname": "midiutil",
+      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "rev_count": 972949,
+      "rev_date": "2026-04-01T09:47:46Z",
+      "scrape_date": "2026-04-02T19:37:45.047498Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.2.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/0204fm6alkasxycyy9kl8yd5ijva64zl-python3.13-midiutil-1.2.1-dist",
+        "out": "/nix/store/08bwqvzjfdll1fvy4x0zvm45i5b1npg1-python3.13-midiutil-1.2.1"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313",
+      "broken": false,
+      "derivation": "/nix/store/krwwaljrhx0f8rykjbxzwhjqhn8iq64d-python3-3.13.12.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python313",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "name": "python3-3.13.12",
+      "pname": "python313",
+      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "rev_count": 972949,
+      "rev_date": "2026-04-01T09:47:46Z",
+      "scrape_date": "2026-04-02T18:01:42.667865Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "python3-3.13.12",
+      "outputs_to_install": [
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/qabiwfbf61gaky68k0klvyjvd8zavmxb-python3-3.13.12"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313",
+      "broken": false,
+      "derivation": "/nix/store/nxvwxd34qjxfwm1cx3kpalrd6xcsydla-python3-3.13.12.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python313",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "name": "python3-3.13.12",
+      "pname": "python313",
+      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "rev_count": 972949,
+      "rev_date": "2026-04-01T09:47:46Z",
+      "scrape_date": "2026-04-02T18:33:32.926493Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "python3-3.13.12",
+      "outputs_to_install": [
+        "out",
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "debug": "/nix/store/q6kvsi3vgc4xvnp3yzibg03a22cw86r2-python3-3.13.12-debug",
+        "out": "/nix/store/nnz5k19wbai97d7y2x11qaq6dgxzhq4w-python3-3.13.12"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313",
+      "broken": false,
+      "derivation": "/nix/store/0bqzghzk3p5ss7wvxgfjw2k49wmiddkj-python3-3.13.12.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python313",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "name": "python3-3.13.12",
+      "pname": "python313",
+      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "rev_count": 972949,
+      "rev_date": "2026-04-01T09:47:46Z",
+      "scrape_date": "2026-04-02T19:02:57.142031Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "python3-3.13.12",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/qcpx0pjlgkigibqijdy1wsy2kmc8shd2-python3-3.13.12"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python313",
+      "broken": false,
+      "derivation": "/nix/store/makmgpqhagbsvfs49dywc7r7a0kv8any-python3-3.13.12.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python313",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "name": "python3-3.13.12",
+      "pname": "python313",
+      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "rev_count": 972949,
+      "rev_date": "2026-04-01T09:47:46Z",
+      "scrape_date": "2026-04-02T19:37:34.349836Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "python3-3.13.12",
+      "outputs_to_install": [
+        "out",
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "debug": "/nix/store/nj0fy51wymai8wp1y7dbk08g6pvjw1a1-python3-3.13.12-debug",
+        "out": "/nix/store/pzdalg368npikvpq4ncz2saxnz19v53k-python3-3.13.12"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    }
+  ]
+}

@@ -1,5 +1,3 @@
-# NOTE: MADE 100% WITH CLAUDE OPUS. IF YOU DISLIKE THIS THAT'S FINE YOU PROBABLY DON'T NEED IT (and maybe you are smort enough to do MIDI transcription without robots. I'm not!)
-
 # Chord Tool
 
 Generate MIDI files from a simple text-based chord progression format.
@@ -73,5 +71,14 @@ python3 generate_midi_with_variance.py example/moolight.txt example/moolight_wit
 
 ## Dependencies
 
-- Python 3
-- [MIDIUtil](https://pypi.org/project/MIDIUtil/) — `pip install midiutil`
+All dependencies are managed by [Flox](https://flox.dev). To set up the environment:
+
+```sh
+flox activate
+```
+
+This provides Python 3 and [MIDIUtil](https://pypi.org/project/MIDIUtil/) — no manual `pip install` needed.
+
+## AI Use Disclosure
+
+Made with Claude Code
